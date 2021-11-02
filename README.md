@@ -1,6 +1,6 @@
-# post_cards
+# Exercise_7
 
-A new Flutter project.
+Mobile Developement Day 7 - Exercise
 
 ## Getting Started
 
